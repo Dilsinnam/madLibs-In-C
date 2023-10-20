@@ -62,8 +62,7 @@ int main() {
          "and %s the ball into the net.\n",
          noun, verbPast, adjective, verbPast);
   printf("\n");
-  printf(
-      "The away fans %s in celebration, while the home fans %s in disbelief.\n",
+  printf("The away fans %s in celebration, while the home fans %s in disbelief.\n",
       verbPast, verbPast);
   printf("The rest of the first half was a %s affair, with both teams having "
          "chances to score, but none of them could find the %s.\n",
